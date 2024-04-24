@@ -52,8 +52,8 @@ móveis.
 
 
 ```
-  yarn
-  npm install
+ npm install -g npm@10.5.2
+ npm install -g yarn
 ```
 
 
