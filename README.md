@@ -60,10 +60,20 @@ móveis.
 <p>
   Agora você precisa instalar globalmente o Json Server que vai servir como backend da aplicação, você pode instalar através
   de um dos seguintes comandos:
+
+  1o no PowerShell como ADMIN 
 </p>
 
 ```
+Set-ExecutionPolicy RemoteSigned
+
+Y
+
+
+
   npm install -g json-server
+
+
   yarn add -g json-server
 ```
 
