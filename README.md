@@ -83,7 +83,7 @@ Y
 </p>
 
 ```
-  git clone https://github.com/leoobarbosa2/ifood-clone.git
+  git clone https://github.com/MarcelloTuna/Ifood.git
 ```
 
 <p>
