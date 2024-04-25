@@ -83,7 +83,7 @@ Y
 </p>
 
 ```
-  git clone https://github.com/MarcelloTuna/Ifood.git
+  git clone https://github.com/MarcelloTuba/Ifood.git
 ```
 
 <p>
@@ -91,11 +91,11 @@ Y
 </p>
 
 ```
-  json-server --host 192.168.11.16 -p 3333 -w
+  json-server --host 127.0.0.1 -p 3333 -w
 ```
 
 <p>
-  Observe que 192.168.11.16 é o IP da minha máquina, para que o backend funcione corretamente você precisará utilizar o IP da
+  Observe que 127.0.0.1 é o IP da minha máquina, para que o backend funcione corretamente você precisará utilizar o IP da
   sua máquina para utilização.
 </p>
 
